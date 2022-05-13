@@ -1,1 +1,1 @@
-# Rosneft's Hackathon 2022
+# Competitions
