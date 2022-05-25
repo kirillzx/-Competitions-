@@ -7,7 +7,7 @@ TrainModel.ipynb - file for training model (the paths are prescribed for trainin
 hackathon-fintech-2.ipynb - file to create features and to write a training sample to a csv file
 
 ### Model
-To solve the problem was choosen XGBClassifier. Its boosting algorithm on trees. With simple Grid Search was found optimal parameters for max depth of the trees and number of trees.
+To solve the problem was choosen XGBClassifier. Its boosting algorithm on trees. With simple Grid Search was found optimal parameters for the max depth of the trees and the number of trees.
 Parameters|Values
 ---|---
 max_depth|8
