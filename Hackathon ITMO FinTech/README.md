@@ -1,6 +1,6 @@
 # ITMO Hack FinTech Case 2022
 
-The task was to predict the activity of companies by their transactional activity. Its multi-label classification.
+The task was to predict the activity of companies by their transactional activity. Its multi-label classification with 35 labels.
 ### File desriptions
 TrainModel.ipynb - file for training model (the paths are prescribed for training on kaggle)
 
