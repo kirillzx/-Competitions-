@@ -3,6 +3,7 @@
 The task was to predict the activity of companies by their transactional activity. Its multi-label classification.
 ### File desriptions
 TrainModel.ipynb - file for training model (the paths are prescribed for training on kaggle)
+
 hackathon-fintech-2.ipynb - file to create features and to write a training sample to a csv file
 
 ### Model
