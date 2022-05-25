@@ -4,3 +4,7 @@ The task was to predict the activity of companies by their transactional activit
 
 ### Model
 To solve the problem was choosen XGBClassifier. Its boosting algorithm on trees. With simple Grid Search was found optimal parameters for max depth of the trees and number of trees.
+Parameters|Values
+---|---
+max_depth|8
+n_estimators|5000
